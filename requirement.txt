@@ -1,0 +1,10 @@
+nltk
+spacy
+torch
+pyenchant
+pytorch_pretrained_bert
+pytesseract
+Pillow
+opencv-python
+numpy
+scipy

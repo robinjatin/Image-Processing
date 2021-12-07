@@ -1,0 +1,27 @@
+{
+    "Account": [
+        "5667-0487-02-6"
+    ],
+    "Bill_Amount": [
+        "$875.90"
+    ],
+    "Last_Payment": [
+        "$-1,155.90"
+    ],
+    "Current_Gas": [
+        "$42.18"
+    ],
+    "Total_Amount_Due": [
+        "$119.76"
+    ],
+    "Billing_Current_Date": [
+        "Jun30,2020 - Jul30,2020"
+    ],
+    "Late_Charges": [
+        "Aug 24,2020"
+    ],
+    "Energy_Used": [
+        "4257 kWh",
+        "5912 kWh"
+    ]
+}
